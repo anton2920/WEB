@@ -1,0 +1,34 @@
+table {
+	padding: 10px;
+	width: 50%;
+	margin: auto;
+	/*border: 1px solid #8AE234FF;*/
+}
+
+tbody {
+	display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+th {
+	border-bottom: 3px solid #8AE234FF;
+	border-top: 3px solid #8AE234FF;
+    text-align: left;
+    color: #000000;
+    font-size: 26px;
+    font-weight: normal;
+}
+
+td.description {
+	min-width: 450px;
+	max-width: 650px;
+	text-align: left;
+	padding: 5px;
+	margin: 0px;
+	font-size: 18px;
+}
+
+.photo {
+	background-size: contain;
+}

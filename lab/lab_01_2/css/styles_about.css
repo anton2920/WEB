@@ -1,0 +1,28 @@
+.about {
+	width: 60%;
+	margin: auto;
+	padding: 10px;
+}
+
+.about_header {
+	font-size: 48px;
+}
+
+.about_text {
+	font-size: 21px;
+}
+
+p#atext {
+	margin-top: 5px;
+}
+
+p#list_head {
+	font-size: 24px;
+}
+
+li.subscribe {
+	font-size: 21px;
+	display: list-item;
+	text-align: left;
+	padding: 1px;
+}

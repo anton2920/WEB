@@ -1,0 +1,223 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: Century Gothic;
+}
+
+.main_logo {
+	padding: 10px;
+	margin: auto;
+  	width: 225px;
+}
+
+.black_panel {
+	width: 100%;
+	min-height: 64px;
+	max-height: 156px;
+	background: #000000;
+	margin-top: 5px;
+}
+
+/* Font */
+ul {
+	font-size: 24px;
+	text-align: center;
+}
+
+/* Other display */
+ul {
+	display: block;
+	margin: 0px auto 0px auto;
+	padding: 12px;
+}
+
+li {
+	display: inline;
+}
+
+a#pnl {
+	color: #FFFFFF;
+	/* text-transform: uppercase; */
+	text-decoration: none;
+	width: 100%;
+	height: 64px;
+	padding: 6px 40px 4px 40px;
+}
+
+a#pnl:hover {
+	color: #73D216FF;
+}
+
+a.main_logo_ref {
+	padding: 0px !important;
+}
+
+footer {
+	width: 100%;
+	height: 64px;
+	background: #000000;
+	margin-top: auto;
+}
+
+p.footer_copyright {
+	color: #FFFFFF;
+	font-size: 15px;
+	text-align: right;
+	padding: 17px;
+	margin-right: 5px;
+}
+
+/* Main part */
+.explorer_frame {
+	width: 75%;
+  	height: 418px;
+  	border: 3px solid #8AE234FF;
+  	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.explorer_png {
+  width: 50%;
+  height: 398px;
+  float: left;
+  background: url("../images/explorer.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+
+  position: relative;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.explorer_right_part {
+	float: right;
+	position: relative;
+	margin: auto;
+	width: 45%;
+}
+
+p.explorer_text {
+	color: #880000;
+	position: relative;
+	font-family: Century Gothic;
+	font-weight: Regular;
+	font-size: 24px;
+	opacity: 1;
+	text-align: center;
+	top: 5px;
+}
+
+ul.explorer_sell_points {
+	position: relative;
+	text-align: left;
+	margin-left: 10px;
+	margin-top: 5px;
+}
+
+li#spts {
+	display: list-item;
+}
+
+.explorer_bottom_text {
+	width: 50%;
+	margin-top: 10px;
+}
+
+p.explorer_price {
+	text-transform: uppercase;
+	font-size: 24px;
+	overflow: hidden;
+	float:left;
+}
+
+/* Buy BTN CLR */
+.explorer_buy_btn {
+	background: rgba(53,176,22,1);
+	border: 2px solid rgba(0,0,0,1);
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.25);
+}
+
+.explorer_buy_btn {
+	width: 25%;
+	height: 70px;
+	float: right;
+	margin-right: 30px;
+	margin-top: 10px;
+}
+
+a#buybtn {
+	color: #000000;
+	text-decoration: none;
+}
+
+p.buy_text {
+	text-align: center;
+	font-size: 24px;
+	padding: 15px;
+}
+
+.three_frames {
+	overflow: auto;
+	width: 75%;
+	margin: auto;
+}
+
+.frame {
+	float: left;
+	width: 30%;
+	height: 300px;
+	margin: 1%;
+	border: 4px solid rgba(5,5,5,1);
+  	border-top-left-radius: 10px;
+  	border-top-right-radius: 10px;
+  	border-bottom-left-radius: 10px;
+  	border-bottom-right-radius: 10px;
+  	box-shadow: 5px 5px 8px rgba(0, 0, 0, 0.25);
+  	position: relative;
+}
+
+.frame_img {
+  	background-position: center center;
+  	background-size: cover;
+}
+
+.frame_backgrond {
+	background-color: black;
+	opacity: 75%;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0px;
+}
+
+.frame_text {
+	color: white;
+	padding-right: 20px;
+	position: absolute;
+	top: 0px;
+}
+
+p#news_head {
+	font-size: 26px;
+	margin-left: 10px;
+}
+
+p#news_text {
+	font-size: 16px;
+	margin-left: 10px;
+	margin-top: 15px;
+}

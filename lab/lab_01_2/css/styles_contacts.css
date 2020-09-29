@@ -1,0 +1,25 @@
+.contacts_body {
+	width: 60%;
+	margin: auto;
+	margin-top: 10px;
+}
+
+.contacts_header {
+	font-size: 40px;
+}
+
+.contacts_text {
+	font-size: 20px;
+}
+
+.contacts_map {
+	/* Some things */
+}
+
+li.contacts_item {
+	font-size: 21px;
+	display: list-item;
+	text-align: left;
+	padding: 1px;
+	margin-left: 30px;
+}
