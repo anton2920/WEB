@@ -481,6 +481,10 @@
 			"settings":
 			{
 				"buffer_size": 8437,
+<<<<<<< Updated upstream
+=======
+				"encoding": "UTF-8",
+>>>>>>> Stashed changes
 				"line_ending": "Windows"
 			}
 		}
@@ -632,16 +636,29 @@
 		"/home/anton/WEB",
 		"/home/anton/WEB/experiments",
 		"/home/anton/WEB/lab",
+<<<<<<< Updated upstream
 		"/home/anton/WEB/lab/lab_02",
 		"/home/anton/WEB/lab/lab_02/css",
+=======
+		"/home/anton/WEB/lab/lab_01_2",
+		"/home/anton/WEB/lab/lab_01_2/css",
+		"/home/anton/WEB/lab/lab_02",
+>>>>>>> Stashed changes
 		"/home/anton/WEB/training"
 	],
 	"file_history":
 	[
+<<<<<<< Updated upstream
 		"/home/anton/WEB/lab/lab_01_2/index.html",
 		"/home/anton/WEB/lab/lab_01_2/contacts.html",
 		"/home/anton/WEB/lab/lab_01_2/css/styles_about.css",
 		"/home/anton/WEB/lab/lab_01_2/css/styles.css",
+=======
+		"/home/anton/WEB/lab/lab_01_2/css/styles.css",
+		"/home/anton/WEB/lab/lab_01_2/index.html",
+		"/home/anton/WEB/lab/lab_01_2/contacts.html",
+		"/home/anton/WEB/lab/lab_01_2/css/styles_about.css",
+>>>>>>> Stashed changes
 		"/home/anton/WEB/lab/lab_01_2/css/styles_contacts.css",
 		"/home/anton/WEB/lab/lab_01_2/about.html",
 		"/home/anton/WEB/lab/lab_01_2/prices.html",
@@ -769,7 +786,11 @@
 	],
 	"find":
 	{
+<<<<<<< Updated upstream
 		"height": 48.0
+=======
+		"height": 32.0
+>>>>>>> Stashed changes
 	},
 	"find_in_files":
 	{
@@ -843,8 +864,13 @@
 						"selection":
 						[
 							[
+<<<<<<< Updated upstream
 								551,
 								551
+=======
+								6904,
+								6904
+>>>>>>> Stashed changes
 							]
 						],
 						"settings":
@@ -854,7 +880,11 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
+<<<<<<< Updated upstream
 						"translation.y": 1716.0,
+=======
+						"translation.y": 6313.0,
+>>>>>>> Stashed changes
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -879,8 +909,13 @@
 						"selection":
 						[
 							[
+<<<<<<< Updated upstream
 								953,
 								953
+=======
+								314,
+								314
+>>>>>>> Stashed changes
 							]
 						],
 						"settings":
@@ -890,7 +925,11 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
+<<<<<<< Updated upstream
 						"translation.y": 1404.0,
+=======
+						"translation.y": 897.0,
+>>>>>>> Stashed changes
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
