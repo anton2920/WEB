@@ -468,23 +468,38 @@
 	"buffers":
 	[
 		{
-			"file": "lab/lab_02/index.html",
+			"file": "lab/lab_03/index.html",
 			"settings":
 			{
-				"buffer_size": 7878,
+				"buffer_size": 498,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "lab/lab_02/css/style.css",
+			"file": "lab/lab_03/style.css",
 			"settings":
 			{
-				"buffer_size": 8437,
-<<<<<<< Updated upstream
-=======
+				"buffer_size": 1029,
 				"encoding": "UTF-8",
->>>>>>> Stashed changes
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lab/lab_03/sc.js",
+			"settings":
+			{
+				"buffer_size": 4234,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lab/lab_03/database.js",
+			"settings":
+			{
+				"buffer_size": 2274,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
@@ -636,29 +651,20 @@
 		"/home/anton/WEB",
 		"/home/anton/WEB/experiments",
 		"/home/anton/WEB/lab",
-<<<<<<< Updated upstream
-		"/home/anton/WEB/lab/lab_02",
-		"/home/anton/WEB/lab/lab_02/css",
-=======
-		"/home/anton/WEB/lab/lab_01_2",
-		"/home/anton/WEB/lab/lab_01_2/css",
-		"/home/anton/WEB/lab/lab_02",
->>>>>>> Stashed changes
+		"/home/anton/WEB/lab/lab_03",
+		"/home/anton/WEB/lab/lab_03/img",
 		"/home/anton/WEB/training"
 	],
 	"file_history":
 	[
-<<<<<<< Updated upstream
-		"/home/anton/WEB/lab/lab_01_2/index.html",
-		"/home/anton/WEB/lab/lab_01_2/contacts.html",
-		"/home/anton/WEB/lab/lab_01_2/css/styles_about.css",
-		"/home/anton/WEB/lab/lab_01_2/css/styles.css",
-=======
+		"/home/anton/WEB/lab/lab_03/sc.js",
+		"/home/anton/WEB/lab/lab_02/index.html",
+		"/home/anton/WEB/lab/lab_02/css/style.css",
+		"/home/anton/WEB/lab/lab_02/css/print.css",
 		"/home/anton/WEB/lab/lab_01_2/css/styles.css",
 		"/home/anton/WEB/lab/lab_01_2/index.html",
 		"/home/anton/WEB/lab/lab_01_2/contacts.html",
 		"/home/anton/WEB/lab/lab_01_2/css/styles_about.css",
->>>>>>> Stashed changes
 		"/home/anton/WEB/lab/lab_01_2/css/styles_contacts.css",
 		"/home/anton/WEB/lab/lab_01_2/about.html",
 		"/home/anton/WEB/lab/lab_01_2/prices.html",
@@ -778,19 +784,11 @@
 		"/home/anton/C/training/OOC/meta/any.c",
 		"/home/anton/C/training/OOC/meta/Class.h",
 		"/home/anton/C/training/OOC/meta/Class.c",
-		"/home/anton/C/training/OOC/meta/Object.h",
-		"/home/anton/C/training/OOC/meta/Object.r",
-		"/home/anton/C/training/OOC/meta/Object.c",
-		"/home/anton/C/training/OOC/meta/Makefile",
-		"/home/anton/C/training/OOC/meta/new.c"
+		"/home/anton/C/training/OOC/meta/Object.h"
 	],
 	"find":
 	{
-<<<<<<< Updated upstream
-		"height": 48.0
-=======
 		"height": 32.0
->>>>>>> Stashed changes
 	},
 	"find_in_files":
 	{
@@ -804,7 +802,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"index",
 			";\n",
 			"%;\n",
 			";\n",
@@ -848,91 +845,127 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "lab/lab_02/index.html",
+					"file": "lab/lab_03/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7878,
+						"buffer_size": 498,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-<<<<<<< Updated upstream
-								551,
-								551
-=======
-								6904,
-								6904
->>>>>>> Stashed changes
+								408,
+								408
 							]
 						],
 						"settings":
 						{
 							"auto_complete": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-<<<<<<< Updated upstream
-						"translation.y": 1716.0,
-=======
-						"translation.y": 6313.0,
->>>>>>> Stashed changes
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
+				},
 				{
 					"buffer": 1,
-					"file": "lab/lab_02/css/style.css",
+					"file": "lab/lab_03/style.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8437,
+						"buffer_size": 1029,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-<<<<<<< Updated upstream
-								953,
-								953
-=======
-								314,
-								314
->>>>>>> Stashed changes
+								372,
+								372
 							]
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/darkula.tmTheme",
 							"syntax": "Packages/CSS/CSS.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-<<<<<<< Updated upstream
-						"translation.y": 1404.0,
-=======
-						"translation.y": 897.0,
->>>>>>> Stashed changes
+						"translation.y": 276.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lab/lab_03/sc.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4234,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1763,
+								1763
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "lab/lab_03/database.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2274,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1448,
+								1448
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1512.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -940,7 +973,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 35.0
+		"height": 32.0
 	},
 	"input":
 	{
@@ -955,18 +988,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
@@ -992,7 +1018,7 @@
 	"project": "web.sublime-project",
 	"replace":
 	{
-		"height": 66.0
+		"height": 60.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1026,7 +1052,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
