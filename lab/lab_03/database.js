@@ -1,4 +1,3 @@
-
 const guitars = [
 	{
 		brand: "Fender",
@@ -15,7 +14,7 @@ const guitars = [
 		year: "1950",
 		body: "Telecaster",
 		country: "the U.S.A",
-		type: "Single Coil",
+		type: "Single coil",
 		img: 'img/2.png'
 	},
 	{
@@ -33,7 +32,7 @@ const guitars = [
 		year: "1961",
 		body: "SG",
 		country: "the U.S.A",
-		type: "Single Coil",
+		type: "Single coil",
 		img: 'img/5.png'
 	},
 	{

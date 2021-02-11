@@ -2,8 +2,15 @@
 	"folders":
 	[
 		{
-			"path": ".",
-			"file_exclude_patterns": ["*.o", "*.out"],
+			"file_exclude_patterns":
+			[
+				"*.o",
+				"*.out"
+			],
+			"path": "."
+		},
+		{
+			"path": "/var/www/html"
 		}
 	]
 }

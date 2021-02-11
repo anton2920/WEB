@@ -49,7 +49,7 @@ function printFilters(arProperties, selector)
         
         output += tmpLine;
     
-    }
+    };
     
     output += endTemplate;
     $(selector).html(output);
@@ -94,7 +94,7 @@ function applyFilters(data, filter, properties)
         if (ok) {
             result.push(guitar);
         };
-    }
+    };
 
     /* Returning value */
     return result;
@@ -108,7 +108,7 @@ function getEmptyFilters(properties)
     /* Main part */
     for (let prop in properties) {
         let searchIDs = $("#filters input[name='"+prop+"']:not(:checked)").map(function() {
-        return $(this).val();
+            return $(this).val();
         }).get();
     
         filters[prop] = searchIDs;
@@ -117,7 +117,6 @@ function getEmptyFilters(properties)
     /* Returning value */
     return filters;
 }
-
 
 function closeEmptyCheckBox(curFilter, filters, guitars, properties)
 {
@@ -135,7 +134,6 @@ function closeEmptyCheckBox(curFilter, filters, guitars, properties)
     }
 }
 
-
 $(document).ready(function()
 {
     /* Main part */
@@ -149,6 +147,6 @@ $(document).ready(function()
         let unchecked      = getEmptyFilters(properties);
         closeEmptyCheckBox(curFilter, unchecked,guitars, properties);
 
-        printGuitar( filtredGuitars, '#elements' );
+        printGuitar(filtredGuitars, '#elements');
     });
 });

@@ -1,0 +1,55 @@
+body {
+  background-color: rgb(240, 248, 255);
+}
+
+.edit__interview {
+  border: 1px solid rgba(160, 160, 160, 0.4);
+  box-shadow: 0 0 10px rgba(160, 160, 160, 0.8);
+  width: 100%;
+  height: 100%;
+  background-color: rgb(250, 250, 255);
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}
+
+.btn {
+  height: 40px;
+  width: 100px;
+}
+
+.answer {
+  width: 600px;
+  height: 160px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  font-size: small;
+}
+
+.row {
+  margin: 10px;
+}
+
+.column {
+  margin: 20px;
+}
+
+.question {
+  margin-top: 60px;
+}
+
+.btn {
+  margin: 20px;
+}
+
+.text__question {
+  width: 400px;
+}
+
+input[type="radio"] {
+  margin: 4px;
+}
